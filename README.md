@@ -14,7 +14,6 @@ This repository is an example of using CNN to classify whether the given coral i
 ### Libraries:
   - numpy
   - pandas
-  - scikit-learn (sklearn)
   - tensorflow
 
 ### How to Use the Repository
